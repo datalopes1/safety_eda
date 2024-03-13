@@ -54,7 +54,7 @@ Verificação através dos métodos isna() e duplicated().
 ## 3.2. Manipulação dos dados e colunas
 Foram feitos os processos de renomeação das colunas, conversão do tipo da coluna Date e conserto de erros de preenchimento.
 
-# 4. EDA ou Análise Exploratória de dados
+# 🔍4. EDA ou Análise Exploratória de dados
 ### A quantidade de acidentes tem diminuidos ao longo do tempo?
 ![Gráfico1](https://github.com/datalopes1/safety_eda/blob/main/scr/img/p_1.png?raw=true)
 Começamos com uma boa noticia para o período, existe uma tendência de queda da quantidade de acidentes registrados. A diferença é considerável sendo 46,82% de queda (De 299 em 2016 para 140 em 2017).
@@ -91,7 +91,7 @@ Somente setor de metalúrgia os acidentados em sua maioria são empregados pela 
 ### Qual a severidade dos acidentes que cada tipo de contratado está envolvido?
 ![Gráfico13](https://github.com/datalopes1/safety_eda/blob/main/scr/img/p_13.png?raw=true)
 
-# 5. Conclusões
+# ✅5. Conclusões
 ![Cap](https://github.com/datalopes1/safety_eda/blob/main/scr/img/cap_1.jpg?raw=true)
 O Brasil é um dos países com maiores número de casos de acidentes de trabalho, no ano de 2022 foram registrados 612,9 mil acidentes com 2.538 casos fatais, um estudo da [OIT (Organização Internacional do Trabalho)](https://congressoemfoco.uol.com.br/area/pais/brasil-registra-um-acidente-de-trabalho-a-cada-51-segundos/) aponta que a cada 51 segundos acontece um acidente de trabalho no país. Ainda em outro estudo da OIT, o país foi rankeado em 4º lugar em fatalidades no período de [2002 à 2020](https://prev-one.com.br/artigo/brasil-ocupa-4a-posicao-no-ranking-mundial-de-acidentes-de-trabalho#:~:text=No%20mundo%2C%20o%20Brasil%20ocupa,emprego%20entre%202002%20e%202020.), ficando atrás somente de Índia, China e Indonésia, os setores observados nessa análise tem alto potencial tanto de acidentes de alta severidade quanto óbitos portando é necessário tomar medidas que mudem a cultura de Segurança e Saúde no Trabalho dentro da organizações. 
 
